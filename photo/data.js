@@ -44,9 +44,3 @@ for(var i = 0; i<d.length; i++){
   });
 }
 
-
-  
-
-$('.giftbox div').click(function() {
-	console.log("test");
-});
