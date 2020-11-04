@@ -110,6 +110,6 @@ for(var i = 0; i<d.length; i++){
   data.push({
     img: c1[0]+ ".jpg",
     caption: caption[i],
-    desc: caption[i]
+    desc: desc[i]
   });
 }
